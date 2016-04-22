@@ -22,3 +22,7 @@ h2 {color: DarkGreen;
 }
 a {
     color: black;}
+
+body {
+	cursor: url('favicon.ico'), default;
+}
